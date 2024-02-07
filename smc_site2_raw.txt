@@ -1,0 +1,502 @@
+<div id="ml_results_wrapper" class="com_locator_results_wrapper collapse_list_show combined " data-hidden="" style="">
+        <div class="com_locator_entry com_locator_entry_7  row0 ml_sanmateoaododsprograms" rel="of_0" data-location-id="com_locator_entry_7"><div class="com_locator_address "><h2 class="com_locator_title"> BAY AREA ADDICTION RESEARCH &amp; TREATMENT (BAART)</h2>
+ <span class="line_item address">795 WILLOW ROAD</span><br>
+<span class="line_item address2">Bldg. 332</span><br>
+<span class="line_item city">MENLO PARK</span>, <span class="line_item state">CA</span> <span class="line_item postalcode">94025</span><br>
+<span class="line_item phone">650-324-1470</span><br>
+ <span class="line_item link"><a data-conversion="LinkField" class="" href="https://baartprograms.com/baart-san-mateo/" target="_blank" data-handled-conversion="1">https://baartprograms.com/baart-san-mateo/</a></span><br>
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_populationsserved">Population Served:</span> &nbsp;<span class="line_item populationsserved">Adults with chemical dependence on opioids.</span>&nbsp;<br>
+&nbsp;<br>
+<span class="ml_fieldlabel ml_fieldlabel_adaaccommodations">ADA Accommodations:</span>&nbsp;<span class="line_item adaaccommodations">Yes</span><br>
+<span class="ml_fieldlabel ml_fieldlabel_acceptingnewclients">Accepting New Clients:</span> &nbsp;&nbsp;<span class="line_item acceptingnewclients">Yes</span>&nbsp;<br>
+<span class="ml_fieldlabel ml_fieldlabel_acceptingnewclientsdetails">Accepting New Clients Details:</span>&nbsp;&nbsp;<span class="line_item acceptingnewclientsdetails">Contact BAART at 650.324.1470 .</span><br>
+<br>
+<!-- languagesspoken --><span class="ml_fieldlabel ml_fieldlabel_languagesspoken">Languages Spoken</span>&nbsp;<span class="line_item languagesspoken">Cantonese, Hindi, Punjabi, Spanish</span><br>
+<!-- languagesspoken --> <span class="ml_fieldlabel ml_fieldlabel_skilledinterpreteravailable">Skilled Interpreter Available:</span>&nbsp;<span class="line_item skilledinterpreteravailable">Yes</span><br>
+NPI:&nbsp;<span class="line_item npi">1184992331</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_completedculturalcompetencetraining">Completed Culture Training:</span> &nbsp;&nbsp;<span class="line_item completedculturalcompetencetraining">See Specific Provider For Information</span><br>
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_lgbt">Expertise with LGBT issues:</span>&nbsp;<span class="line_item lgbt">Yes</span>&nbsp; &nbsp;<span class="ml_fieldlabel ml_fieldlabel_transitionageyouth">Expertise with Transition Age Youth issues:</span> &nbsp;<span class="line_item transitionageyouth">No</span>&nbsp;&nbsp;<span class="ml_fieldlabel ml_fieldlabel_olderadults">Expertise with Older Adult Issues:</span>&nbsp;<span class="line_item olderadults">Yes</span>&nbsp;&nbsp;<span class="ml_fieldlabel ml_fieldlabel_veterans">Expertise with Veterans issues:</span> &nbsp;<span class="line_item veterans">Yes</span><br>
+ <a class="ml_details_link" href="/index.php?option=com_locator&amp;sample_data=0&amp;lang=&amp;view=location&amp;layout=default&amp;framed=1&amp;tmpl=component&amp;id=7&amp;Itemid=10622">Details</a>
+<p>&nbsp;</p>
+</div></div><div class="com_locator_entry com_locator_entry_743  row1 ml_sanmateoaododsprograms" rel="of_1" data-location-id="com_locator_entry_743"><div class="com_locator_address "><h2 class="com_locator_title"> BHRS Integrated Medication Assisted Treatment (IMAT)</h2>
+ <span class="line_item address">310 Harbor Blvd</span><br>
+<span class="line_item address2">Building E</span><br>
+<span class="line_item city">Belmont</span>, <span class="line_item state">CA</span> <span class="line_item postalcode">94002</span><br>
+<span class="line_item phone">(650) 573-2735</span><br>
+ 
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_populationsserved">Population Served:</span> &nbsp;<span class="line_item populationsserved">Adults, Pregnant women</span>&nbsp;<br>
+&nbsp;<br>
+<span class="ml_fieldlabel ml_fieldlabel_adaaccommodations">ADA Accommodations:</span>&nbsp;<span class="line_item adaaccommodations">Yes</span><br>
+<span class="ml_fieldlabel ml_fieldlabel_acceptingnewclients">Accepting New Clients:</span> &nbsp;&nbsp;<span class="line_item acceptingnewclients">Yes</span>&nbsp;<br>
+<span class="ml_fieldlabel ml_fieldlabel_acceptingnewclientsdetails">Accepting New Clients Details:</span>&nbsp;&nbsp;<span class="line_item acceptingnewclientsdetails">Current client call your clinic's Main Number request the supervisor or your current case manager/clinical staff. New clients Call the ACCESS Call Center at (800) 686-0101, TTY for hearing impaired dial 711.</span><br>
+<br>
+<!-- languagesspoken --><span class="ml_fieldlabel ml_fieldlabel_languagesspoken">Languages Spoken</span>&nbsp;<span class="line_item languagesspoken">Spanish</span><br>
+<!-- languagesspoken --> <span class="ml_fieldlabel ml_fieldlabel_skilledinterpreteravailable">Skilled Interpreter Available:</span>&nbsp;<span class="line_item skilledinterpreteravailable">Yes</span><br>
+NPI:&nbsp;<span class="line_item npi">N/A</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_completedculturalcompetencetraining">Completed Culture Training:</span> &nbsp;&nbsp;<span class="line_item completedculturalcompetencetraining">See Specific Provider For Information</span><br>
+<br>
+&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
+ <a class="ml_details_link" href="/index.php?option=com_locator&amp;sample_data=0&amp;lang=&amp;view=location&amp;layout=default&amp;framed=1&amp;tmpl=component&amp;id=743&amp;Itemid=10622">Details</a>
+<p>&nbsp;</p>
+</div></div><div class="com_locator_entry com_locator_entry_847  row0 ml_sanmateoaododsprograms" rel="of_2" data-location-id="com_locator_entry_847"><div class="com_locator_address "><h2 class="com_locator_title"> EL CENTRO DE LIBERTAD THE FREEDOM CENTER</h2>
+ <span class="line_item address">225 S. CABRILLO HWY, SUITE 105 E</span><br>
+
+<span class="line_item city">HALF MOON BAY</span>, <span class="line_item state">CA</span> <span class="line_item postalcode">94019</span><br>
+<span class="line_item phone">650-599-9955</span><br>
+ <span class="line_item link"><a data-conversion="LinkField" class="" href="https://www.elcentrodelibertad.org/" target="_blank" data-handled-conversion="1">https://www.elcentrodelibertad.org/</a></span><br>
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_populationsserved">Population Served:</span> &nbsp;<span class="line_item populationsserved">Youth &amp; Adults</span>&nbsp;<br>
+&nbsp;<br>
+<span class="ml_fieldlabel ml_fieldlabel_adaaccommodations">ADA Accommodations:</span>&nbsp;<span class="line_item adaaccommodations">Yes</span><br>
+<span class="ml_fieldlabel ml_fieldlabel_acceptingnewclients">Accepting New Clients:</span> &nbsp;&nbsp;<span class="line_item acceptingnewclients">Yes</span>&nbsp;<br>
+<span class="ml_fieldlabel ml_fieldlabel_acceptingnewclientsdetails">Accepting New Clients Details:</span>&nbsp;&nbsp;<span class="line_item acceptingnewclientsdetails">Contact the program directly.</span><br>
+<br>
+<!-- languagesspoken --><span class="ml_fieldlabel ml_fieldlabel_languagesspoken">Languages Spoken</span>&nbsp;<span class="line_item languagesspoken">Spanish</span><br>
+<!-- languagesspoken --> <span class="ml_fieldlabel ml_fieldlabel_skilledinterpreteravailable">Skilled Interpreter Available:</span>&nbsp;<span class="line_item skilledinterpreteravailable">Yes</span><br>
+NPI:&nbsp;<span class="line_item npi">1336579713</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_completedculturalcompetencetraining">Completed Culture Training:</span> &nbsp;&nbsp;<span class="line_item completedculturalcompetencetraining">See Specific Provider For Information</span><br>
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_lgbt">Expertise with LGBT issues:</span>&nbsp;<span class="line_item lgbt">Yes</span>&nbsp; &nbsp;<span class="ml_fieldlabel ml_fieldlabel_transitionageyouth">Expertise with Transition Age Youth issues:</span> &nbsp;<span class="line_item transitionageyouth">Yes</span>&nbsp;&nbsp;<span class="ml_fieldlabel ml_fieldlabel_olderadults">Expertise with Older Adult Issues:</span>&nbsp;<span class="line_item olderadults">Yes</span>&nbsp;&nbsp;<span class="ml_fieldlabel ml_fieldlabel_veterans">Expertise with Veterans issues:</span> &nbsp;<span class="line_item veterans">Yes</span><br>
+ <a class="ml_details_link" href="/index.php?option=com_locator&amp;sample_data=0&amp;lang=&amp;view=location&amp;layout=default&amp;framed=1&amp;tmpl=component&amp;id=847&amp;Itemid=10622">Details</a>
+<p>&nbsp;</p>
+</div></div><div class="com_locator_entry com_locator_entry_876  row1 ml_sanmateoaododsprograms" rel="of_3" data-location-id="com_locator_entry_876"><div class="com_locator_address "><h2 class="com_locator_title"> EL CENTRO DE LIBERTAD THE FREEDOM CENTER</h2>
+ <span class="line_item address">500 ALLERTON</span><br>
+<span class="line_item address2">2nd Floor</span><br>
+<span class="line_item city">REDWOOD CITY</span>, <span class="line_item state">CA</span> <span class="line_item postalcode">94063</span><br>
+<span class="line_item phone">650-599-9955</span><br>
+ <span class="line_item link"><a data-conversion="LinkField" class="" href="https://www.elcentrodelibertad.org/" target="_blank" data-handled-conversion="1">https://www.elcentrodelibertad.org/</a></span><br>
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_populationsserved">Population Served:</span> &nbsp;<span class="line_item populationsserved">Youth, Adults</span>&nbsp;<br>
+&nbsp;<br>
+<span class="ml_fieldlabel ml_fieldlabel_adaaccommodations">ADA Accommodations:</span>&nbsp;<span class="line_item adaaccommodations">Yes</span><br>
+<span class="ml_fieldlabel ml_fieldlabel_acceptingnewclients">Accepting New Clients:</span> &nbsp;&nbsp;<span class="line_item acceptingnewclients">Yes</span>&nbsp;<br>
+<span class="ml_fieldlabel ml_fieldlabel_acceptingnewclientsdetails">Accepting New Clients Details:</span>&nbsp;&nbsp;<span class="line_item acceptingnewclientsdetails">Call 1-650-599-9995</span><br>
+<br>
+<!-- languagesspoken --><span class="ml_fieldlabel ml_fieldlabel_languagesspoken">Languages Spoken</span>&nbsp;<span class="line_item languagesspoken">Spanish</span><br>
+<!-- languagesspoken --> <span class="ml_fieldlabel ml_fieldlabel_skilledinterpreteravailable">Skilled Interpreter Available:</span>&nbsp;<span class="line_item skilledinterpreteravailable">No</span><br>
+NPI:&nbsp;<span class="line_item npi">1902193956</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_completedculturalcompetencetraining">Completed Culture Training:</span> &nbsp;&nbsp;<span class="line_item completedculturalcompetencetraining">See Specific Provider For Information</span><br>
+<br>
+&nbsp;&nbsp; &nbsp;<span class="ml_fieldlabel ml_fieldlabel_transitionageyouth">Expertise with Transition Age Youth issues:</span> &nbsp;<span class="line_item transitionageyouth">Yes</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
+ <a class="ml_details_link" href="/index.php?option=com_locator&amp;sample_data=0&amp;lang=&amp;view=location&amp;layout=default&amp;framed=1&amp;tmpl=component&amp;id=876&amp;Itemid=10622">Details</a>
+<p>&nbsp;</p>
+</div></div><div class="com_locator_entry com_locator_entry_1371  row0 ml_sanmateoaododsprograms" rel="of_4" data-location-id="com_locator_entry_1371"><div class="com_locator_address "><h2 class="com_locator_title"> Fort Help LLC</h2>
+ <span class="line_item address">915 Bryant Street</span><br>
+
+<span class="line_item city">San Francisco</span>, <span class="line_item state">CA</span> <span class="line_item postalcode">94103</span><br>
+<span class="line_item phone">(415) 777-9953</span><br>
+ <span class="line_item link"><a data-conversion="LinkField" class="" href="https://www.americanhealthservices.org/san-francisco-ca-94103.html" target="_blank" data-handled-conversion="1">https://www.americanhealthservices.org/san-francisco-ca-94103.html</a></span><br>
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_populationsserved">Population Served:</span> &nbsp;<span class="line_item populationsserved">Medication Assisted Treatment (MAT) services including the ordering, prescribing, administering, and monitoring of medications to persons who suffer from opioid use disorder.</span>&nbsp;<br>
+&nbsp;<br>
+<span class="ml_fieldlabel ml_fieldlabel_adaaccommodations">ADA Accommodations:</span>&nbsp;<span class="line_item adaaccommodations">Yes</span><br>
+<span class="ml_fieldlabel ml_fieldlabel_acceptingnewclients">Accepting New Clients:</span> &nbsp;&nbsp;<span class="line_item acceptingnewclients">Yes</span>&nbsp;<br>
+&nbsp;&nbsp;
+<br>
+<!-- languagesspoken --><span class="ml_fieldlabel ml_fieldlabel_languagesspoken">Languages Spoken</span>&nbsp;<span class="line_item languagesspoken">Spanish</span><br>
+<!-- languagesspoken --> <span class="ml_fieldlabel ml_fieldlabel_skilledinterpreteravailable">Skilled Interpreter Available:</span>&nbsp;<span class="line_item skilledinterpreteravailable">No</span><br>
+NPI:&nbsp;<span class="line_item npi">1346444031</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_completedculturalcompetencetraining">Completed Culture Training:</span> &nbsp;&nbsp;<span class="line_item completedculturalcompetencetraining">Yes</span><br>
+<br>
+&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
+ <a class="ml_details_link" href="/index.php?option=com_locator&amp;sample_data=0&amp;lang=&amp;view=location&amp;layout=default&amp;framed=1&amp;tmpl=component&amp;id=1371&amp;Itemid=10622">Details</a>
+<p>&nbsp;</p>
+</div></div><div class="com_locator_entry com_locator_entry_1372  row1 ml_sanmateoaododsprograms" rel="of_5" data-location-id="com_locator_entry_1372"><div class="com_locator_address "><h2 class="com_locator_title"> Fort Help Mission, Inc.</h2>
+ <span class="line_item address">1101 Capp Street</span><br>
+
+<span class="line_item city">San Francisco</span>, <span class="line_item state">CA</span> <span class="line_item postalcode">94110</span><br>
+<span class="line_item phone">(415) 821-1427</span><br>
+ <span class="line_item link"><a data-conversion="LinkField" class="" href="https://www.americanhealthservices.org/san-francisco-ca-94110.html" target="_blank" data-handled-conversion="1">https://www.americanhealthservices.org/san-francisco-ca-94110.html</a></span><br>
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_populationsserved">Population Served:</span> &nbsp;<span class="line_item populationsserved">Medication Assisted Treatment (MAT) services including the ordering, prescribing, administering, and monitoring of medications to persons who suffer from opioid use disorder.</span>&nbsp;<br>
+&nbsp;<br>
+&nbsp;
+<span class="ml_fieldlabel ml_fieldlabel_acceptingnewclients">Accepting New Clients:</span> &nbsp;&nbsp;<span class="line_item acceptingnewclients">Yes</span>&nbsp;<br>
+<span class="ml_fieldlabel ml_fieldlabel_acceptingnewclientsdetails">Accepting New Clients Details:</span>&nbsp;&nbsp;<span class="line_item acceptingnewclientsdetails">Yes</span><br>
+<br>
+<!-- languagesspoken --><span class="ml_fieldlabel ml_fieldlabel_languagesspoken">Languages Spoken</span>&nbsp;<span class="line_item languagesspoken">Spanish</span><br>
+<!-- languagesspoken --> <span class="ml_fieldlabel ml_fieldlabel_skilledinterpreteravailable">Skilled Interpreter Available:</span>&nbsp;<span class="line_item skilledinterpreteravailable">No</span><br>
+NPI:&nbsp;<span class="line_item npi">1639322415</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_completedculturalcompetencetraining">Completed Culture Training:</span> &nbsp;&nbsp;<span class="line_item completedculturalcompetencetraining">Yes</span><br>
+<br>
+&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
+ <a class="ml_details_link" href="/index.php?option=com_locator&amp;sample_data=0&amp;lang=&amp;view=location&amp;layout=default&amp;framed=1&amp;tmpl=component&amp;id=1372&amp;Itemid=10622">Details</a>
+<p>&nbsp;</p>
+</div></div><div class="com_locator_entry com_locator_entry_45  row0 ml_sanmateoaododsprograms" rel="of_6" data-location-id="com_locator_entry_45"><div class="com_locator_address "><h2 class="com_locator_title"> FREE AT LAST</h2>
+ <span class="line_item address">1796 BAY ROAD</span><br>
+
+<span class="line_item city">EAST PALO ALTO</span>, <span class="line_item state">CA</span> <span class="line_item postalcode">94303</span><br>
+<span class="line_item phone">650-462-6999</span><br>
+ <span class="line_item link"><a data-conversion="LinkField" class="" href="http://freeatlast.org/" target="_blank" data-handled-conversion="1">http://freeatlast.org/</a></span><br>
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_populationsserved">Population Served:</span> &nbsp;<span class="line_item populationsserved">Adults , Perinatal</span>&nbsp;<br>
+&nbsp;<br>
+<span class="ml_fieldlabel ml_fieldlabel_adaaccommodations">ADA Accommodations:</span>&nbsp;<span class="line_item adaaccommodations">Yes</span><br>
+<span class="ml_fieldlabel ml_fieldlabel_acceptingnewclients">Accepting New Clients:</span> &nbsp;&nbsp;<span class="line_item acceptingnewclients">Yes</span>&nbsp;<br>
+&nbsp;&nbsp;
+<br>
+<!-- languagesspoken --><span class="ml_fieldlabel ml_fieldlabel_languagesspoken">Languages Spoken</span>&nbsp;<span class="line_item languagesspoken">Spanish</span><br>
+<!-- languagesspoken --> <span class="ml_fieldlabel ml_fieldlabel_skilledinterpreteravailable">Skilled Interpreter Available:</span>&nbsp;<span class="line_item skilledinterpreteravailable">Yes</span><br>
+NPI:&nbsp;<span class="line_item npi">1063849735; 1083041636; 1841626116</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_completedculturalcompetencetraining">Completed Culture Training:</span> &nbsp;&nbsp;<span class="line_item completedculturalcompetencetraining">See Specific Provider For Information</span><br>
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_lgbt">Expertise with LGBT issues:</span>&nbsp;<span class="line_item lgbt">Yes</span>&nbsp; &nbsp;<span class="ml_fieldlabel ml_fieldlabel_transitionageyouth">Expertise with Transition Age Youth issues:</span> &nbsp;<span class="line_item transitionageyouth">No</span>&nbsp;&nbsp;<span class="ml_fieldlabel ml_fieldlabel_olderadults">Expertise with Older Adult Issues:</span>&nbsp;<span class="line_item olderadults">Yes</span>&nbsp;&nbsp;<span class="ml_fieldlabel ml_fieldlabel_veterans">Expertise with Veterans issues:</span> &nbsp;<span class="line_item veterans">Yes</span><br>
+ <a class="ml_details_link" href="/index.php?option=com_locator&amp;sample_data=0&amp;lang=&amp;view=location&amp;layout=default&amp;framed=1&amp;tmpl=component&amp;id=45&amp;Itemid=10622">Details</a>
+<p>&nbsp;</p>
+</div></div><div class="com_locator_entry com_locator_entry_48  row1 ml_sanmateoaododsprograms" rel="of_7" data-location-id="com_locator_entry_48"><div class="com_locator_address "><h2 class="com_locator_title"> HEALTHRIGHT 360 (IMAT CLINIC  MEDICATED ASSISTED TREATMENT)</h2>
+ <span class="line_item address">117 NORTH SAN MATEO DRIVE</span><br>
+
+<span class="line_item city">SAN MATEO</span>, <span class="line_item state">CA</span> <span class="line_item postalcode">94401</span><br>
+<span class="line_item phone">650-425-9408</span><br>
+ <span class="line_item link"><a data-conversion="LinkField" class="" href="https://www.healthright360.org/program/san-mateo-mat-clinic" target="_blank" data-handled-conversion="1">https://www.healthright360.org/program/san-mateo-mat-clinic</a></span><br>
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_populationsserved">Population Served:</span> &nbsp;<span class="line_item populationsserved">Adults</span>&nbsp;<br>
+&nbsp;<br>
+<span class="ml_fieldlabel ml_fieldlabel_adaaccommodations">ADA Accommodations:</span>&nbsp;<span class="line_item adaaccommodations">Yes</span><br>
+<span class="ml_fieldlabel ml_fieldlabel_acceptingnewclients">Accepting New Clients:</span> &nbsp;&nbsp;<span class="line_item acceptingnewclients">Yes</span>&nbsp;<br>
+&nbsp;&nbsp;
+<br>
+<!-- languagesspoken --><span class="ml_fieldlabel ml_fieldlabel_languagesspoken">Languages Spoken</span>&nbsp;<span class="line_item languagesspoken">Spanish</span><br>
+<!-- languagesspoken --> <span class="ml_fieldlabel ml_fieldlabel_skilledinterpreteravailable">Skilled Interpreter Available:</span>&nbsp;<span class="line_item skilledinterpreteravailable">Yes</span><br>
+NPI:&nbsp;<span class="line_item npi">1558756536</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_completedculturalcompetencetraining">Completed Culture Training:</span> &nbsp;&nbsp;<span class="line_item completedculturalcompetencetraining">See Specific Provider For Information</span><br>
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_lgbt">Expertise with LGBT issues:</span>&nbsp;<span class="line_item lgbt">Yes</span>&nbsp; &nbsp;<span class="ml_fieldlabel ml_fieldlabel_transitionageyouth">Expertise with Transition Age Youth issues:</span> &nbsp;<span class="line_item transitionageyouth">No</span>&nbsp;&nbsp;<span class="ml_fieldlabel ml_fieldlabel_olderadults">Expertise with Older Adult Issues:</span>&nbsp;<span class="line_item olderadults">Yes</span>&nbsp;&nbsp;<span class="ml_fieldlabel ml_fieldlabel_veterans">Expertise with Veterans issues:</span> &nbsp;<span class="line_item veterans">Yes</span><br>
+ <a class="ml_details_link" href="/index.php?option=com_locator&amp;sample_data=0&amp;lang=&amp;view=location&amp;layout=default&amp;framed=1&amp;tmpl=component&amp;id=48&amp;Itemid=10622">Details</a>
+<p>&nbsp;</p>
+</div></div><div class="com_locator_entry com_locator_entry_1007  row0 ml_sanmateoaododsprograms" rel="of_8" data-location-id="com_locator_entry_1007"><div class="com_locator_address "><h2 class="com_locator_title"> HEALTHRIGHT 360 - Asian American Recovery Services (AARS)</h2>
+ <span class="line_item address">6181 Mission Street</span><br>
+
+<span class="line_item city">Daly City</span>, <span class="line_item state">CA</span> <span class="line_item postalcode">94014</span><br>
+<span class="line_item phone">415-337-0140</span><br>
+ 
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_populationsserved">Population Served:</span> &nbsp;<span class="line_item populationsserved">Adults</span>&nbsp;<br>
+&nbsp;<br>
+<span class="ml_fieldlabel ml_fieldlabel_adaaccommodations">ADA Accommodations:</span>&nbsp;<span class="line_item adaaccommodations">Yes</span><br>
+<span class="ml_fieldlabel ml_fieldlabel_acceptingnewclients">Accepting New Clients:</span> &nbsp;&nbsp;<span class="line_item acceptingnewclients">Yes</span>&nbsp;<br>
+<span class="ml_fieldlabel ml_fieldlabel_acceptingnewclientsdetails">Accepting New Clients Details:</span>&nbsp;&nbsp;<span class="line_item acceptingnewclientsdetails">Contact the program directly.</span><br>
+<br>
+<!-- languagesspoken --><span class="ml_fieldlabel ml_fieldlabel_languagesspoken">Languages Spoken</span>&nbsp;<span class="line_item languagesspoken">Tagalog, Ilocano, Cantonese</span><br>
+<!-- languagesspoken --> <span class="ml_fieldlabel ml_fieldlabel_skilledinterpreteravailable">Skilled Interpreter Available:</span>&nbsp;<span class="line_item skilledinterpreteravailable">Yes</span><br>
+NPI:&nbsp;<span class="line_item npi">1104994185</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_completedculturalcompetencetraining">Completed Culture Training:</span> &nbsp;&nbsp;<span class="line_item completedculturalcompetencetraining">See Specific Provider For Information</span><br>
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_lgbt">Expertise with LGBT issues:</span>&nbsp;<span class="line_item lgbt">Yes</span>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;<span class="ml_fieldlabel ml_fieldlabel_olderadults">Expertise with Older Adult Issues:</span>&nbsp;<span class="line_item olderadults">Yes</span>&nbsp;&nbsp;<span class="ml_fieldlabel ml_fieldlabel_veterans">Expertise with Veterans issues:</span> &nbsp;<span class="line_item veterans">Yes</span><br>
+ <a class="ml_details_link" href="/index.php?option=com_locator&amp;sample_data=0&amp;lang=&amp;view=location&amp;layout=default&amp;framed=1&amp;tmpl=component&amp;id=1007&amp;Itemid=10622">Details</a>
+<p>&nbsp;</p>
+</div></div><div class="com_locator_entry com_locator_entry_865  row1 ml_sanmateoaododsprograms" rel="of_9" data-location-id="com_locator_entry_865"><div class="com_locator_address "><h2 class="com_locator_title"> HEALTHRIGHT 360 - Pioneer Court Outpatient Program</h2>
+ <span class="line_item address">2015 Pioneer Court</span><br>
+<span class="line_item address2">Suite B</span><br>
+<span class="line_item city">San Mateo</span>, <span class="line_item state">CA</span> <span class="line_item postalcode">94403</span><br>
+<span class="line_item phone">650-273-4790</span><br>
+ <span class="line_item link"><a data-conversion="LinkField" class="" href="https://www.healthright360.org/" target="_blank" data-handled-conversion="1">https://www.healthright360.org/</a></span><br>
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_populationsserved">Population Served:</span> &nbsp;<span class="line_item populationsserved">Adults &amp; Perinatal Adults</span>&nbsp;<br>
+&nbsp;<br>
+<span class="ml_fieldlabel ml_fieldlabel_adaaccommodations">ADA Accommodations:</span>&nbsp;<span class="line_item adaaccommodations">Yes</span><br>
+<span class="ml_fieldlabel ml_fieldlabel_acceptingnewclients">Accepting New Clients:</span> &nbsp;&nbsp;<span class="line_item acceptingnewclients">Yes</span>&nbsp;<br>
+<span class="ml_fieldlabel ml_fieldlabel_acceptingnewclientsdetails">Accepting New Clients Details:</span>&nbsp;&nbsp;<span class="line_item acceptingnewclientsdetails">Contact the program directly.</span><br>
+<br>
+<!-- languagesspoken --><span class="ml_fieldlabel ml_fieldlabel_languagesspoken">Languages Spoken</span>&nbsp;<span class="line_item languagesspoken">Spanish, Tagalog, Samoan, Arabic</span><br>
+<!-- languagesspoken --> <span class="ml_fieldlabel ml_fieldlabel_skilledinterpreteravailable">Skilled Interpreter Available:</span>&nbsp;<span class="line_item skilledinterpreteravailable">No</span><br>
+NPI:&nbsp;<span class="line_item npi">1649403486; 1407118805; 1144587379</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_completedculturalcompetencetraining">Completed Culture Training:</span> &nbsp;&nbsp;<span class="line_item completedculturalcompetencetraining">See Specific Provider For Information</span><br>
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_lgbt">Expertise with LGBT issues:</span>&nbsp;<span class="line_item lgbt">Yes</span>&nbsp; &nbsp;<span class="ml_fieldlabel ml_fieldlabel_transitionageyouth">Expertise with Transition Age Youth issues:</span> &nbsp;<span class="line_item transitionageyouth">Yes</span>&nbsp;&nbsp;<span class="ml_fieldlabel ml_fieldlabel_olderadults">Expertise with Older Adult Issues:</span>&nbsp;<span class="line_item olderadults">Yes</span>&nbsp;&nbsp;<span class="ml_fieldlabel ml_fieldlabel_veterans">Expertise with Veterans issues:</span> &nbsp;<span class="line_item veterans">Yes</span><br>
+ <a class="ml_details_link" href="/index.php?option=com_locator&amp;sample_data=0&amp;lang=&amp;view=location&amp;layout=default&amp;framed=1&amp;tmpl=component&amp;id=865&amp;Itemid=10622">Details</a>
+<p>&nbsp;</p>
+</div></div><div class="com_locator_entry com_locator_entry_848  row0 ml_sanmateoaododsprograms" rel="of_10" data-location-id="com_locator_entry_848"><div class="com_locator_address "><h2 class="com_locator_title"> LATINO COMMISSION</h2>
+ <span class="line_item address">1001 SNEATH LANE</span><br>
+<span class="line_item address2">2nd Floor</span><br>
+<span class="line_item city">SAN BRUNO</span>, <span class="line_item state">CA</span> <span class="line_item postalcode">94066</span><br>
+<span class="line_item phone">650-244-1444</span><br>
+ <span class="line_item link"><a data-conversion="LinkField" class="" href="https://www.thelatinocommission.org/" target="_blank" data-handled-conversion="1">https://www.thelatinocommission.org/</a></span><br>
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_populationsserved">Population Served:</span> &nbsp;<span class="line_item populationsserved">Adult &amp; Perinatal Adults</span>&nbsp;<br>
+&nbsp;<br>
+&nbsp;
+<span class="ml_fieldlabel ml_fieldlabel_acceptingnewclients">Accepting New Clients:</span> &nbsp;&nbsp;<span class="line_item acceptingnewclients">Yes</span>&nbsp;<br>
+<span class="ml_fieldlabel ml_fieldlabel_acceptingnewclientsdetails">Accepting New Clients Details:</span>&nbsp;&nbsp;<span class="line_item acceptingnewclientsdetails">Contact the program direclty</span><br>
+<br>
+<!-- languagesspoken --><span class="ml_fieldlabel ml_fieldlabel_languagesspoken">Languages Spoken</span>&nbsp;<span class="line_item languagesspoken">Spanish</span><br>
+<!-- languagesspoken --> <span class="ml_fieldlabel ml_fieldlabel_skilledinterpreteravailable">Skilled Interpreter Available:</span>&nbsp;<span class="line_item skilledinterpreteravailable">Yes</span><br>
+NPI:&nbsp;<span class="line_item npi">1508221623 &amp; 1740578087</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_completedculturalcompetencetraining">Completed Culture Training:</span> &nbsp;&nbsp;<span class="line_item completedculturalcompetencetraining">See Specific Provider For Information</span><br>
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_lgbt">Expertise with LGBT issues:</span>&nbsp;<span class="line_item lgbt">Yes</span>&nbsp; &nbsp;<span class="ml_fieldlabel ml_fieldlabel_transitionageyouth">Expertise with Transition Age Youth issues:</span> &nbsp;<span class="line_item transitionageyouth">No</span>&nbsp;&nbsp;<span class="ml_fieldlabel ml_fieldlabel_olderadults">Expertise with Older Adult Issues:</span>&nbsp;<span class="line_item olderadults">Yes</span>&nbsp;&nbsp;<span class="ml_fieldlabel ml_fieldlabel_veterans">Expertise with Veterans issues:</span> &nbsp;<span class="line_item veterans">Yes</span><br>
+ <a class="ml_details_link" href="/index.php?option=com_locator&amp;sample_data=0&amp;lang=&amp;view=location&amp;layout=default&amp;framed=1&amp;tmpl=component&amp;id=848&amp;Itemid=10622">Details</a>
+<p>&nbsp;</p>
+</div></div><div class="com_locator_entry com_locator_entry_1373  row1 ml_sanmateoaododsprograms" rel="of_11" data-location-id="com_locator_entry_1373"><div class="com_locator_address "><h2 class="com_locator_title"> Lifeline Treatment Services, Inc.</h2>
+ <span class="line_item address">10429 International Boulevard</span><br>
+
+<span class="line_item city">Oakland</span>, <span class="line_item state">CA</span> <span class="line_item postalcode">94603</span><br>
+<span class="line_item phone">(510) 777-8448</span><br>
+ <span class="line_item link"><a data-conversion="LinkField" class="" href="https://www.americanhealthservices.org/oakland-california.html" target="_blank" data-handled-conversion="1">https://www.americanhealthservices.org/oakland-california.html</a></span><br>
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_populationsserved">Population Served:</span> &nbsp;<span class="line_item populationsserved">Medication Assisted Treatment (MAT) services including the ordering, prescribing, administering, and monitoring of medications to persons who suffer from opioid use disorder.</span>&nbsp;<br>
+&nbsp;<br>
+<span class="ml_fieldlabel ml_fieldlabel_adaaccommodations">ADA Accommodations:</span>&nbsp;<span class="line_item adaaccommodations">Yes</span><br>
+<span class="ml_fieldlabel ml_fieldlabel_acceptingnewclients">Accepting New Clients:</span> &nbsp;&nbsp;<span class="line_item acceptingnewclients">Yes</span>&nbsp;<br>
+&nbsp;&nbsp;
+<br>
+<!-- languagesspoken --><span class="ml_fieldlabel ml_fieldlabel_languagesspoken">Languages Spoken</span>&nbsp;<span class="line_item languagesspoken">Spanish</span><br>
+<!-- languagesspoken --> <span class="ml_fieldlabel ml_fieldlabel_skilledinterpreteravailable">Skilled Interpreter Available:</span>&nbsp;<span class="line_item skilledinterpreteravailable">No</span><br>
+NPI:&nbsp;<span class="line_item npi">1689890758</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_completedculturalcompetencetraining">Completed Culture Training:</span> &nbsp;&nbsp;<span class="line_item completedculturalcompetencetraining">Yes</span><br>
+<br>
+&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
+ <a class="ml_details_link" href="/index.php?option=com_locator&amp;sample_data=0&amp;lang=&amp;view=location&amp;layout=default&amp;framed=1&amp;tmpl=component&amp;id=1373&amp;Itemid=10622">Details</a>
+<p>&nbsp;</p>
+</div></div><div class="com_locator_entry com_locator_entry_87  row0 ml_sanmateoaododsprograms" rel="of_12" data-location-id="com_locator_entry_87"><div class="com_locator_address "><h2 class="com_locator_title"> OUR COMMON GROUND</h2>
+ <span class="line_item address">2560 PULGAS AVENUE</span><br>
+
+<span class="line_item city">EAST PALO ALTO</span>, <span class="line_item state">CA</span> <span class="line_item postalcode">94303</span><br>
+<span class="line_item phone">650-325-6466</span><br>
+ <span class="line_item link"><a data-conversion="LinkField" class="" href="https://ocgworks.org/" target="_blank" data-handled-conversion="1">https://ocgworks.org/</a></span><br>
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_populationsserved">Population Served:</span> &nbsp;<span class="line_item populationsserved">Adults (Men)</span>&nbsp;<br>
+&nbsp;<br>
+<span class="ml_fieldlabel ml_fieldlabel_adaaccommodations">ADA Accommodations:</span>&nbsp;<span class="line_item adaaccommodations">Yes</span><br>
+<span class="ml_fieldlabel ml_fieldlabel_acceptingnewclients">Accepting New Clients:</span> &nbsp;&nbsp;<span class="line_item acceptingnewclients">Yes</span>&nbsp;<br>
+&nbsp;&nbsp;
+<br>
+ <span class="ml_fieldlabel ml_fieldlabel_skilledinterpreteravailable">Skilled Interpreter Available:</span>&nbsp;<span class="line_item skilledinterpreteravailable">Yes</span><br>
+NPI:&nbsp;<span class="line_item npi">1366844060</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_completedculturalcompetencetraining">Completed Culture Training:</span> &nbsp;&nbsp;<span class="line_item completedculturalcompetencetraining">See Specific Provider For Information</span><br>
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_lgbt">Expertise with LGBT issues:</span>&nbsp;<span class="line_item lgbt">Yes</span>&nbsp; &nbsp;<span class="ml_fieldlabel ml_fieldlabel_transitionageyouth">Expertise with Transition Age Youth issues:</span> &nbsp;<span class="line_item transitionageyouth">Yes</span>&nbsp;&nbsp;<span class="ml_fieldlabel ml_fieldlabel_olderadults">Expertise with Older Adult Issues:</span>&nbsp;<span class="line_item olderadults">Yes</span>&nbsp;&nbsp;<span class="ml_fieldlabel ml_fieldlabel_veterans">Expertise with Veterans issues:</span> &nbsp;<span class="line_item veterans">Yes</span><br>
+ <a class="ml_details_link" href="/index.php?option=com_locator&amp;sample_data=0&amp;lang=&amp;view=location&amp;layout=default&amp;framed=1&amp;tmpl=component&amp;id=87&amp;Itemid=10622">Details</a>
+<p>&nbsp;</p>
+</div></div><div class="com_locator_entry com_locator_entry_1376  row1 ml_sanmateoaododsprograms" rel="of_13" data-location-id="com_locator_entry_1376"><div class="com_locator_address "><h2 class="com_locator_title"> Our Common Ground Outpatient</h2>
+ <span class="line_item address">26 Central Ave</span><br>
+
+<span class="line_item city">Redwood City</span>, <span class="line_item state">CA</span> <span class="line_item postalcode">940613823</span><br>
+<span class="line_item phone">(650) 367-9030 Ext 26</span><br>
+ <span class="line_item link"><a data-conversion="LinkField" class="" href="https://ocgworks.org/" target="_blank" data-handled-conversion="1">https://ocgworks.org/</a></span><br>
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_populationsserved">Population Served:</span> &nbsp;<span class="line_item populationsserved">Adults</span>&nbsp;<br>
+&nbsp;<br>
+<span class="ml_fieldlabel ml_fieldlabel_adaaccommodations">ADA Accommodations:</span>&nbsp;<span class="line_item adaaccommodations">Yes</span><br>
+<span class="ml_fieldlabel ml_fieldlabel_acceptingnewclients">Accepting New Clients:</span> &nbsp;&nbsp;<span class="line_item acceptingnewclients">Yes</span>&nbsp;<br>
+&nbsp;&nbsp;
+<br>
+ <span class="ml_fieldlabel ml_fieldlabel_skilledinterpreteravailable">Skilled Interpreter Available:</span>&nbsp;<span class="line_item skilledinterpreteravailable">No</span><br>
+NPI:&nbsp;<span class="line_item npi">1346390200</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+ &nbsp;&nbsp;
+<br>
+&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
+ <a class="ml_details_link" href="/index.php?option=com_locator&amp;sample_data=0&amp;lang=&amp;view=location&amp;layout=default&amp;framed=1&amp;tmpl=component&amp;id=1376&amp;Itemid=10622">Details</a>
+<p>&nbsp;</p>
+</div></div><div class="com_locator_entry com_locator_entry_88  row0 ml_sanmateoaododsprograms" rel="of_14" data-location-id="com_locator_entry_88"><div class="com_locator_address "><h2 class="com_locator_title"> PALM AVENUE DETOX HORIZON, INC.</h2>
+ <span class="line_item address">2251 PALM AVENUE</span><br>
+
+<span class="line_item city">SAN MATEO</span>, <span class="line_item state">CA</span> <span class="line_item postalcode">94403</span><br>
+<span class="line_item phone">650-513-6500</span><br>
+ <span class="line_item link"><a data-conversion="LinkField" class="" href="https://www.horizonservices.org/palm-avenue" target="_blank" data-handled-conversion="1">https://www.horizonservices.org/palm-avenue</a></span><br>
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_populationsserved">Population Served:</span> &nbsp;<span class="line_item populationsserved">Adults</span>&nbsp;<br>
+&nbsp;<br>
+<span class="ml_fieldlabel ml_fieldlabel_adaaccommodations">ADA Accommodations:</span>&nbsp;<span class="line_item adaaccommodations">Yes</span><br>
+<span class="ml_fieldlabel ml_fieldlabel_acceptingnewclients">Accepting New Clients:</span> &nbsp;&nbsp;<span class="line_item acceptingnewclients">Yes</span>&nbsp;<br>
+&nbsp;&nbsp;
+<br>
+ <span class="ml_fieldlabel ml_fieldlabel_skilledinterpreteravailable">Skilled Interpreter Available:</span>&nbsp;<span class="line_item skilledinterpreteravailable">No</span><br>
+NPI:&nbsp;<span class="line_item npi">1689961617</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_completedculturalcompetencetraining">Completed Culture Training:</span> &nbsp;&nbsp;<span class="line_item completedculturalcompetencetraining">See Specific Provider For Information</span><br>
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_lgbt">Expertise with LGBT issues:</span>&nbsp;<span class="line_item lgbt">Yes</span>&nbsp; &nbsp;<span class="ml_fieldlabel ml_fieldlabel_transitionageyouth">Expertise with Transition Age Youth issues:</span> &nbsp;<span class="line_item transitionageyouth">No</span>&nbsp;&nbsp;<span class="ml_fieldlabel ml_fieldlabel_olderadults">Expertise with Older Adult Issues:</span>&nbsp;<span class="line_item olderadults">Yes</span>&nbsp;&nbsp;<span class="ml_fieldlabel ml_fieldlabel_veterans">Expertise with Veterans issues:</span> &nbsp;<span class="line_item veterans">Yes</span><br>
+ <a class="ml_details_link" href="/index.php?option=com_locator&amp;sample_data=0&amp;lang=&amp;view=location&amp;layout=default&amp;framed=1&amp;tmpl=component&amp;id=88&amp;Itemid=10622">Details</a>
+<p>&nbsp;</p>
+</div></div><div class="com_locator_entry com_locator_entry_93  row1 ml_sanmateoaododsprograms" rel="of_15" data-location-id="com_locator_entry_93"><div class="com_locator_address "><h2 class="com_locator_title"> PROJECT NINETY (CAMINAR)</h2>
+ <span class="line_item address">416 2ND AVENUE</span><br>
+
+<span class="line_item city">SAN MATEO</span>, <span class="line_item state">CA</span> <span class="line_item postalcode">94401</span><br>
+<span class="line_item phone">650-579-7881</span><br>
+ <span class="line_item link"><a data-conversion="LinkField" class="" href="http://www.projectninety.org/" target="_blank" data-handled-conversion="1">http://www.projectninety.org/</a></span><br>
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_populationsserved">Population Served:</span> &nbsp;<span class="line_item populationsserved">Adult Men</span>&nbsp;<br>
+&nbsp;<br>
+<span class="ml_fieldlabel ml_fieldlabel_adaaccommodations">ADA Accommodations:</span>&nbsp;<span class="line_item adaaccommodations">Yes</span><br>
+<span class="ml_fieldlabel ml_fieldlabel_acceptingnewclients">Accepting New Clients:</span> &nbsp;&nbsp;<span class="line_item acceptingnewclients">Yes</span>&nbsp;<br>
+<span class="ml_fieldlabel ml_fieldlabel_acceptingnewclientsdetails">Accepting New Clients Details:</span>&nbsp;&nbsp;<span class="line_item acceptingnewclientsdetails">Contact program directly.</span><br>
+<br>
+ <span class="ml_fieldlabel ml_fieldlabel_skilledinterpreteravailable">Skilled Interpreter Available:</span>&nbsp;<span class="line_item skilledinterpreteravailable">No</span><br>
+NPI:&nbsp;<span class="line_item npi">1497186886</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_completedculturalcompetencetraining">Completed Culture Training:</span> &nbsp;&nbsp;<span class="line_item completedculturalcompetencetraining">See Specific Provider For Information</span><br>
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_lgbt">Expertise with LGBT issues:</span>&nbsp;<span class="line_item lgbt">Yes</span>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;<span class="ml_fieldlabel ml_fieldlabel_olderadults">Expertise with Older Adult Issues:</span>&nbsp;<span class="line_item olderadults">Yes</span>&nbsp;&nbsp;<span class="ml_fieldlabel ml_fieldlabel_veterans">Expertise with Veterans issues:</span> &nbsp;<span class="line_item veterans">Yes</span><br>
+ <a class="ml_details_link" href="/index.php?option=com_locator&amp;sample_data=0&amp;lang=&amp;view=location&amp;layout=default&amp;framed=1&amp;tmpl=component&amp;id=93&amp;Itemid=10622">Details</a>
+<p>&nbsp;</p>
+</div></div><div class="com_locator_entry com_locator_entry_851  row0 ml_sanmateoaododsprograms" rel="of_16" data-location-id="com_locator_entry_851"><div class="com_locator_address "><h2 class="com_locator_title"> SERVICE LEAGUE OF SAN MATEO COUNTY - HOPE HOUSE</h2>
+ <span class="line_item address">727 MIDDLEFIELD ROAD</span><br>
+
+<span class="line_item city">REDWOOD CITY</span>, <span class="line_item state">CA</span> <span class="line_item postalcode">94063</span><br>
+<span class="line_item phone">650-364-4664</span><br>
+ <span class="line_item link"><a data-conversion="LinkField" class="" href="http://serviceleague.org/" target="_blank" data-handled-conversion="1">http://serviceleague.org/</a></span><br>
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_populationsserved">Population Served:</span> &nbsp;<span class="line_item populationsserved">Adult Women &amp; Perinatal</span>&nbsp;<br>
+&nbsp;<br>
+&nbsp;
+<span class="ml_fieldlabel ml_fieldlabel_acceptingnewclients">Accepting New Clients:</span> &nbsp;&nbsp;<span class="line_item acceptingnewclients">Yes</span>&nbsp;<br>
+<span class="ml_fieldlabel ml_fieldlabel_acceptingnewclientsdetails">Accepting New Clients Details:</span>&nbsp;&nbsp;<span class="line_item acceptingnewclientsdetails">Contact program directly.</span><br>
+<br>
+ <span class="ml_fieldlabel ml_fieldlabel_skilledinterpreteravailable">Skilled Interpreter Available:</span>&nbsp;<span class="line_item skilledinterpreteravailable">Yes</span><br>
+NPI:&nbsp;<span class="line_item npi">1518253020</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_completedculturalcompetencetraining">Completed Culture Training:</span> &nbsp;&nbsp;<span class="line_item completedculturalcompetencetraining">See Specific Provider For Information</span><br>
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_lgbt">Expertise with LGBT issues:</span>&nbsp;<span class="line_item lgbt">Yes</span>&nbsp; &nbsp;<span class="ml_fieldlabel ml_fieldlabel_transitionageyouth">Expertise with Transition Age Youth issues:</span> &nbsp;<span class="line_item transitionageyouth">No</span>&nbsp;&nbsp;<span class="ml_fieldlabel ml_fieldlabel_olderadults">Expertise with Older Adult Issues:</span>&nbsp;<span class="line_item olderadults">Yes</span>&nbsp;&nbsp;<span class="ml_fieldlabel ml_fieldlabel_veterans">Expertise with Veterans issues:</span> &nbsp;<span class="line_item veterans">Yes</span><br>
+ <a class="ml_details_link" href="/index.php?option=com_locator&amp;sample_data=0&amp;lang=&amp;view=location&amp;layout=default&amp;framed=1&amp;tmpl=component&amp;id=851&amp;Itemid=10622">Details</a>
+<p>&nbsp;</p>
+</div></div><div class="com_locator_entry com_locator_entry_107  row1 ml_sanmateoaododsprograms" rel="of_17" data-location-id="com_locator_entry_107"><div class="com_locator_address "><h2 class="com_locator_title"> SITIKE COUNSELING CENTER</h2>
+ <span class="line_item address">306 SPRUCE AVENUE</span><br>
+<span class="line_item address2">1st Floor</span><br>
+<span class="line_item city">SOUTH SAN FRANCISCO</span>, <span class="line_item state">CA</span> <span class="line_item postalcode">94080</span><br>
+<span class="line_item phone">650-589-9305</span><br>
+ <span class="line_item link"><a data-conversion="LinkField" class="" href="http://www.sitike.org/" target="_blank" data-handled-conversion="1">http://www.sitike.org/</a></span><br>
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_populationsserved">Population Served:</span> &nbsp;<span class="line_item populationsserved">Adults</span>&nbsp;<br>
+&nbsp;<br>
+<span class="ml_fieldlabel ml_fieldlabel_adaaccommodations">ADA Accommodations:</span>&nbsp;<span class="line_item adaaccommodations">Yes</span><br>
+<span class="ml_fieldlabel ml_fieldlabel_acceptingnewclients">Accepting New Clients:</span> &nbsp;&nbsp;<span class="line_item acceptingnewclients">Yes</span>&nbsp;<br>
+<span class="ml_fieldlabel ml_fieldlabel_acceptingnewclientsdetails">Accepting New Clients Details:</span>&nbsp;&nbsp;<span class="line_item acceptingnewclientsdetails">Contact program directly.</span><br>
+<br>
+<!-- languagesspoken --><span class="ml_fieldlabel ml_fieldlabel_languagesspoken">Languages Spoken</span>&nbsp;<span class="line_item languagesspoken">Spanish</span><br>
+<!-- languagesspoken --> <span class="ml_fieldlabel ml_fieldlabel_skilledinterpreteravailable">Skilled Interpreter Available:</span>&nbsp;<span class="line_item skilledinterpreteravailable">Yes</span><br>
+NPI:&nbsp;<span class="line_item npi">1457646960</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_completedculturalcompetencetraining">Completed Culture Training:</span> &nbsp;&nbsp;<span class="line_item completedculturalcompetencetraining">See Specific Provider For Information</span><br>
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_lgbt">Expertise with LGBT issues:</span>&nbsp;<span class="line_item lgbt">Yes</span>&nbsp; &nbsp;<span class="ml_fieldlabel ml_fieldlabel_transitionageyouth">Expertise with Transition Age Youth issues:</span> &nbsp;<span class="line_item transitionageyouth">No</span>&nbsp;&nbsp;<span class="ml_fieldlabel ml_fieldlabel_olderadults">Expertise with Older Adult Issues:</span>&nbsp;<span class="line_item olderadults">Yes</span>&nbsp;&nbsp;<span class="ml_fieldlabel ml_fieldlabel_veterans">Expertise with Veterans issues:</span> &nbsp;<span class="line_item veterans">Yes</span><br>
+ <a class="ml_details_link" href="/index.php?option=com_locator&amp;sample_data=0&amp;lang=&amp;view=location&amp;layout=default&amp;framed=1&amp;tmpl=component&amp;id=107&amp;Itemid=10622">Details</a>
+<p>&nbsp;</p>
+</div></div><div class="com_locator_entry com_locator_entry_115  row0 ml_sanmateoaododsprograms" rel="of_18" data-location-id="com_locator_entry_115"><div class="com_locator_address "><h2 class="com_locator_title"> STARVISTA - FIRST CHANCE OUTPATIENT SERVICES &amp; SOBERING STATION</h2>
+ <span class="line_item address">826 MAHLER ROAD</span><br>
+
+<span class="line_item city">BURLINGAME</span>, <span class="line_item state">CA</span> <span class="line_item postalcode">94010</span><br>
+<span class="line_item phone">1-650-689-5597</span><br>
+ <span class="line_item link"><a data-conversion="LinkField" class="" href="https://star-vista.org/programs/alphabetical-program-list/" target="_blank" data-handled-conversion="1">https://star-vista.org/programs/alphabetical-program-list/</a></span><br>
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_populationsserved">Population Served:</span> &nbsp;<span class="line_item populationsserved">Adults</span>&nbsp;<br>
+&nbsp;<br>
+<span class="ml_fieldlabel ml_fieldlabel_adaaccommodations">ADA Accommodations:</span>&nbsp;<span class="line_item adaaccommodations">Yes</span><br>
+<span class="ml_fieldlabel ml_fieldlabel_acceptingnewclients">Accepting New Clients:</span> &nbsp;&nbsp;<span class="line_item acceptingnewclients">Yes</span>&nbsp;<br>
+<span class="ml_fieldlabel ml_fieldlabel_acceptingnewclientsdetails">Accepting New Clients Details:</span>&nbsp;&nbsp;<span class="line_item acceptingnewclientsdetails">Call 650-689-5597, and let the person who answers the phone know that you would like to schedule an intake.</span><br>
+<br>
+ <span class="ml_fieldlabel ml_fieldlabel_skilledinterpreteravailable">Skilled Interpreter Available:</span>&nbsp;<span class="line_item skilledinterpreteravailable">No</span><br>
+NPI:&nbsp;<span class="line_item npi">1912285735</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_completedculturalcompetencetraining">Completed Culture Training:</span> &nbsp;&nbsp;<span class="line_item completedculturalcompetencetraining">Our staff are highly trained and skilled in working with diverse individuals.</span><br>
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_lgbt">Expertise with LGBT issues:</span>&nbsp;<span class="line_item lgbt">Yes</span>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;<span class="ml_fieldlabel ml_fieldlabel_olderadults">Expertise with Older Adult Issues:</span>&nbsp;<span class="line_item olderadults">Yes</span>&nbsp;&nbsp;<span class="ml_fieldlabel ml_fieldlabel_veterans">Expertise with Veterans issues:</span> &nbsp;<span class="line_item veterans">Yes</span><br>
+ <a class="ml_details_link" href="/index.php?option=com_locator&amp;sample_data=0&amp;lang=&amp;view=location&amp;layout=default&amp;framed=1&amp;tmpl=component&amp;id=115&amp;Itemid=10622">Details</a>
+<p>&nbsp;</p>
+</div></div><div class="com_locator_entry com_locator_entry_852  row1 ml_sanmateoaododsprograms" rel="of_19" data-location-id="com_locator_entry_852"><div class="com_locator_address "><h2 class="com_locator_title"> STARVISTA - INSIGHTS DALY CITY</h2>
+ <span class="line_item address">333 GELLERT BLVD.</span><br>
+<span class="line_item address2">206</span><br>
+<span class="line_item city">DALY CITY</span>, <span class="line_item state">CA</span> <span class="line_item postalcode">94014</span><br>
+<span class="line_item phone">1-650-366-8436</span><br>
+ <span class="line_item link"><a data-conversion="LinkField" class="" href="https://star-vista.org/programs/alphabetical-program-list/" target="_blank" data-handled-conversion="1">https://star-vista.org/programs/alphabetical-program-list/</a></span><br>
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_populationsserved">Population Served:</span> &nbsp;<span class="line_item populationsserved">Youth and Transitional Age Youth</span>&nbsp;<br>
+&nbsp;<br>
+<span class="ml_fieldlabel ml_fieldlabel_adaaccommodations">ADA Accommodations:</span>&nbsp;<span class="line_item adaaccommodations">Yes</span><br>
+<span class="ml_fieldlabel ml_fieldlabel_acceptingnewclients">Accepting New Clients:</span> &nbsp;&nbsp;<span class="line_item acceptingnewclients">Yes</span>&nbsp;<br>
+<span class="ml_fieldlabel ml_fieldlabel_acceptingnewclientsdetails">Accepting New Clients Details:</span>&nbsp;&nbsp;<span class="line_item acceptingnewclientsdetails">Contact program direclty</span><br>
+<br>
+<!-- languagesspoken --><span class="ml_fieldlabel ml_fieldlabel_languagesspoken">Languages Spoken</span>&nbsp;<span class="line_item languagesspoken">Spanish</span><br>
+<!-- languagesspoken --> <span class="ml_fieldlabel ml_fieldlabel_skilledinterpreteravailable">Skilled Interpreter Available:</span>&nbsp;<span class="line_item skilledinterpreteravailable">Yes</span><br>
+NPI:&nbsp;<span class="line_item npi">1336343870</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_completedculturalcompetencetraining">Completed Culture Training:</span> &nbsp;&nbsp;<span class="line_item completedculturalcompetencetraining">Yes</span><br>
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_lgbt">Expertise with LGBT issues:</span>&nbsp;<span class="line_item lgbt">Yes</span>&nbsp; &nbsp;<span class="ml_fieldlabel ml_fieldlabel_transitionageyouth">Expertise with Transition Age Youth issues:</span> &nbsp;<span class="line_item transitionageyouth">Yes</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
+ <a class="ml_details_link" href="/index.php?option=com_locator&amp;sample_data=0&amp;lang=&amp;view=location&amp;layout=default&amp;framed=1&amp;tmpl=component&amp;id=852&amp;Itemid=10622">Details</a>
+<p>&nbsp;</p>
+</div></div><div class="com_locator_entry com_locator_entry_1008  row0 ml_sanmateoaododsprograms" rel="of_20" data-location-id="com_locator_entry_1008"><div class="com_locator_address "><h2 class="com_locator_title"> StarVista - Women's Enrichment Center</h2>
+ <span class="line_item address">335 Quarry Road</span><br>
+
+<span class="line_item city">San Carlos</span>, <span class="line_item state">CA</span> <span class="line_item postalcode">94070</span><br>
+<span class="line_item phone">650-591-3636</span><br>
+ <span class="line_item link"><a data-conversion="LinkField" class="" href="https://star-vista.org/programs/alphabetical-program-list/" target="_blank" data-handled-conversion="1">https://star-vista.org/programs/alphabetical-program-list/</a></span><br>
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_populationsserved">Population Served:</span> &nbsp;<span class="line_item populationsserved">San Mateo residents who identify as women, are 18-years-old or older, and have substance use and mental health concerns.</span>&nbsp;<br>
+&nbsp;<br>
+<span class="ml_fieldlabel ml_fieldlabel_adaaccommodations">ADA Accommodations:</span>&nbsp;<span class="line_item adaaccommodations">Only the ADA phone line</span><br>
+<span class="ml_fieldlabel ml_fieldlabel_acceptingnewclients">Accepting New Clients:</span> &nbsp;&nbsp;<span class="line_item acceptingnewclients">Yes</span>&nbsp;<br>
+<span class="ml_fieldlabel ml_fieldlabel_acceptingnewclientsdetails">Accepting New Clients Details:</span>&nbsp;&nbsp;<span class="line_item acceptingnewclientsdetails">Call 650-591-3636 and let the person who answers the phone know that you are seeking treatment/making a referral.</span><br>
+<br>
+<!-- languagesspoken --><span class="ml_fieldlabel ml_fieldlabel_languagesspoken">Languages Spoken</span>&nbsp;<span class="line_item languagesspoken">Spanish</span><br>
+<!-- languagesspoken --> <span class="ml_fieldlabel ml_fieldlabel_skilledinterpreteravailable">Skilled Interpreter Available:</span>&nbsp;<span class="line_item skilledinterpreteravailable">NO</span><br>
+NPI:&nbsp;<span class="line_item npi">1457662892</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_completedculturalcompetencetraining">Completed Culture Training:</span> &nbsp;&nbsp;<span class="line_item completedculturalcompetencetraining">See Specific Provider For Information</span><br>
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_lgbt">Expertise with LGBT issues:</span>&nbsp;<span class="line_item lgbt">Yes</span>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;<span class="ml_fieldlabel ml_fieldlabel_olderadults">Expertise with Older Adult Issues:</span>&nbsp;<span class="line_item olderadults">Yes</span>&nbsp;&nbsp;<span class="ml_fieldlabel ml_fieldlabel_veterans">Expertise with Veterans issues:</span> &nbsp;<span class="line_item veterans">Yes</span><br>
+ <a class="ml_details_link" href="/index.php?option=com_locator&amp;sample_data=0&amp;lang=&amp;view=location&amp;layout=default&amp;framed=1&amp;tmpl=component&amp;id=1008&amp;Itemid=10622">Details</a>
+<p>&nbsp;</p>
+</div></div><div class="com_locator_entry com_locator_entry_797  row1 ml_sanmateoaododsprograms" rel="of_21" data-location-id="com_locator_entry_797"><div class="com_locator_address "><h2 class="com_locator_title"> STARVISTA- INSIGHTS REDWOOD CITY</h2>
+ <span class="line_item address">609 PRICE AVENUE</span><br>
+<span class="line_item address2">Suite 205</span><br>
+<span class="line_item city">REDWOOD CITY</span>, <span class="line_item state">CA</span> <span class="line_item postalcode">94063</span><br>
+<span class="line_item phone">650-366-8433</span><br>
+ <span class="line_item link"><a data-conversion="LinkField" class="" href="https://star-vista.org/programs/alphabetical-program-list/" target="_blank" data-handled-conversion="1">https://star-vista.org/programs/alphabetical-program-list/</a></span><br>
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_populationsserved">Population Served:</span> &nbsp;<span class="line_item populationsserved">Youth &amp; Transitional Aged Youth</span>&nbsp;<br>
+&nbsp;<br>
+<span class="ml_fieldlabel ml_fieldlabel_adaaccommodations">ADA Accommodations:</span>&nbsp;<span class="line_item adaaccommodations">Yes</span><br>
+<span class="ml_fieldlabel ml_fieldlabel_acceptingnewclients">Accepting New Clients:</span> &nbsp;&nbsp;<span class="line_item acceptingnewclients">Yes</span>&nbsp;<br>
+<span class="ml_fieldlabel ml_fieldlabel_acceptingnewclientsdetails">Accepting New Clients Details:</span>&nbsp;&nbsp;<span class="line_item acceptingnewclientsdetails">Contact the program directly.</span><br>
+<br>
+ <span class="ml_fieldlabel ml_fieldlabel_skilledinterpreteravailable">Skilled Interpreter Available:</span>&nbsp;<span class="line_item skilledinterpreteravailable">No</span><br>
+NPI:&nbsp;<span class="line_item npi">1821376641</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+<span class="ml_fieldlabel ml_fieldlabel_completedculturalcompetencetraining">Completed Culture Training:</span> &nbsp;&nbsp;<span class="line_item completedculturalcompetencetraining">See Specific Provider For Information</span><br>
+<br>
+&nbsp;&nbsp; &nbsp;<span class="ml_fieldlabel ml_fieldlabel_transitionageyouth">Expertise with Transition Age Youth issues:</span> &nbsp;<span class="line_item transitionageyouth">Yes</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
+ <a class="ml_details_link" href="/index.php?option=com_locator&amp;sample_data=0&amp;lang=&amp;view=location&amp;layout=default&amp;framed=1&amp;tmpl=component&amp;id=797&amp;Itemid=10622">Details</a>
+<p>&nbsp;</p>
+</div></div>
+</div>
